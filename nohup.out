@@ -1,0 +1,10 @@
+INFO:     Will watch for changes in these directories: ['/home/mohan-saravanan/Desktop/git-tutorial/githubtut2']
+INFO:     Uvicorn running on http://127.0.0.1:8008 (Press CTRL+C to quit)
+INFO:     Started reloader process [90241] using WatchFiles
+INFO:     Started server process [90243]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:49796 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49796 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49796 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49796 - "GET /openapi.json HTTP/1.1" 200 OK
